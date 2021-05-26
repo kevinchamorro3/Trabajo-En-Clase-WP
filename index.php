@@ -1,4 +1,4 @@
-<?php
-get_header();
-get_footer();
-?>
+<?php get_header(); ?>
+
+hola mundo
+<?php get_footer(); ?>
